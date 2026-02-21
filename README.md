@@ -1,0 +1,2 @@
+# CardCraftAssets
+Assets for CardCraft
