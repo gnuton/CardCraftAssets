@@ -4,7 +4,7 @@
         {
             "id": "starter-bg-front-fantasy-01",
             "fileName": "Fantasy Glowing Forest",
-            "category": "background",
+            "category": "front-background",
             "path": "backgrounds/front/fantasy_forest_bg.png",
             "tags": [
                 "fantasy",
@@ -17,7 +17,7 @@
         {
             "id": "starter-bg-front-scifi-01",
             "fileName": "Neon Cyberpunk City",
-            "category": "background",
+            "category": "front-background",
             "path": "backgrounds/front/scifi_city_bg.png",
             "tags": [
                 "scifi",
@@ -30,7 +30,7 @@
         {
             "id": "starter-bg-front-parchment-01",
             "fileName": "Vintage Runed Parchment",
-            "category": "background",
+            "category": "front-background",
             "path": "backgrounds/front/vintage_parchment_bg.png",
             "tags": [
                 "texture",
@@ -43,7 +43,7 @@
         {
             "id": "starter-bg-back-runes-01",
             "fileName": "Card Back Starry Runes",
-            "category": "background",
+            "category": "back-background",
             "path": "backgrounds/back/card_back_runes.png",
             "tags": [
                 "cardback",
