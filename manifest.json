@@ -1,1 +1,70 @@
-
+{
+    "baseUrl": "https://raw.githubusercontent.com/gnuton/CardCraftAssets/refs/heads/main/",
+    "assets": [
+        {
+            "id": "starter-bg-fantasy-01",
+            "fileName": "Fantasy Glowing Forest",
+            "category": "background",
+            "path": "backgrounds/fantasy_forest_bg.png",
+            "tags": [
+                "fantasy",
+                "forest",
+                "magic",
+                "nature",
+                "glow"
+            ]
+        },
+        {
+            "id": "starter-bg-scifi-01",
+            "fileName": "Neon Cyberpunk City",
+            "category": "background",
+            "path": "backgrounds/scifi_city_bg.png",
+            "tags": [
+                "scifi",
+                "city",
+                "cyberpunk",
+                "neon",
+                "future"
+            ]
+        },
+        {
+            "id": "starter-ill-fire-01",
+            "fileName": "Fire Spell Explosion",
+            "category": "main-illustration",
+            "path": "illustrations/fire_spell_bg.png",
+            "tags": [
+                "spell",
+                "fire",
+                "magic",
+                "action",
+                "flame"
+            ]
+        },
+        {
+            "id": "starter-bg-parchment-01",
+            "fileName": "Vintage Runed Parchment",
+            "category": "background",
+            "path": "backgrounds/vintage_parchment_bg.png",
+            "tags": [
+                "texture",
+                "parchment",
+                "paper",
+                "runes",
+                "vintage"
+            ]
+        },
+        {
+            "id": "starter-frame-gold-01",
+            "fileName": "Ornate Emerald Gold Frame",
+            "category": "card-frame",
+            "path": "frames/ornate_gold_border.png",
+            "tags": [
+                "frame",
+                "gold",
+                "border",
+                "magic",
+                "ornate"
+            ]
+        }
+    ]
+}
