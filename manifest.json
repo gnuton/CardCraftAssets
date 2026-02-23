@@ -57,13 +57,39 @@
       "id": "starter-ill-fire-01",
       "fileName": "Fire Spell Explosion",
       "category": "main-illustration",
-      "path": "illustrations/fire_spell_bg.png",
+      "path": "illustrations/starter-ill-fire-01.png",
       "tags": [
         "spell",
         "fire",
         "magic",
         "action",
         "flame"
+      ]
+    },
+    {
+      "id": "starter-ill-crystal-01",
+      "fileName": "Crystal Staff Mage",
+      "category": "main-illustration",
+      "path": "illustrations/starter-ill-crystal-01.png",
+      "tags": [
+        "mage",
+        "crystal",
+        "staff",
+        "magic",
+        "blue"
+      ]
+    },
+    {
+      "id": "starter-icon-shield-01",
+      "fileName": "Golden Shield Icon",
+      "category": "icon",
+      "path": "icons/starter-icon-shield-01.png",
+      "tags": [
+        "shield",
+        "defense",
+        "gold",
+        "icon",
+        "medieval"
       ]
     },
     {
