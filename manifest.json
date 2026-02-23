@@ -1,70 +1,83 @@
 {
-    "baseUrl": "https://raw.githubusercontent.com/gnuton/CardCraftAssets/refs/heads/main/",
-    "assets": [
-        {
-            "id": "starter-bg-front-fantasy-01",
-            "fileName": "Fantasy Glowing Forest",
-            "category": "front-background",
-            "path": "backgrounds/front/fantasy_forest_bg.png",
-            "tags": [
-                "fantasy",
-                "forest",
-                "magic",
-                "nature",
-                "glow"
-            ]
-        },
-        {
-            "id": "starter-bg-front-scifi-01",
-            "fileName": "Neon Cyberpunk City",
-            "category": "front-background",
-            "path": "backgrounds/front/scifi_city_bg.png",
-            "tags": [
-                "scifi",
-                "city",
-                "cyberpunk",
-                "neon",
-                "future"
-            ]
-        },
-        {
-            "id": "starter-bg-front-parchment-01",
-            "fileName": "Vintage Runed Parchment",
-            "category": "front-background",
-            "path": "backgrounds/front/vintage_parchment_bg.png",
-            "tags": [
-                "texture",
-                "parchment",
-                "paper",
-                "runes",
-                "vintage"
-            ]
-        },
-        {
-            "id": "starter-bg-back-runes-01",
-            "fileName": "Card Back Starry Runes",
-            "category": "back-background",
-            "path": "backgrounds/back/card_back_runes.png",
-            "tags": [
-                "cardback",
-                "runes",
-                "stars",
-                "blue",
-                "gold"
-            ]
-        },
-        {
-            "id": "starter-ill-fire-01",
-            "fileName": "Fire Spell Explosion",
-            "category": "main-illustration",
-            "path": "illustrations/fire_spell_bg.png",
-            "tags": [
-                "spell",
-                "fire",
-                "magic",
-                "action",
-                "flame"
-            ]
-        }
-    ]
+  "baseUrl": "https://raw.githubusercontent.com/gnuton/CardCraftAssets/refs/heads/main/",
+  "assets": [
+    {
+      "id": "starter-bg-front-fantasy-01",
+      "fileName": "Fantasy Glowing Forest",
+      "category": "front-background",
+      "path": "backgrounds/front/fantasy_forest_bg.png",
+      "tags": [
+        "fantasy",
+        "forest",
+        "magic",
+        "nature",
+        "glow"
+      ]
+    },
+    {
+      "id": "starter-bg-front-scifi-01",
+      "fileName": "Neon Cyberpunk City",
+      "category": "front-background",
+      "path": "backgrounds/front/scifi_city_bg.png",
+      "tags": [
+        "scifi",
+        "city",
+        "cyberpunk",
+        "neon",
+        "future"
+      ]
+    },
+    {
+      "id": "starter-bg-front-parchment-01",
+      "fileName": "Vintage Runed Parchment",
+      "category": "front-background",
+      "path": "backgrounds/front/vintage_parchment_bg.png",
+      "tags": [
+        "texture",
+        "parchment",
+        "paper",
+        "runes",
+        "vintage"
+      ]
+    },
+    {
+      "id": "starter-bg-back-runes-01",
+      "fileName": "Card Back Starry Runes",
+      "category": "back-background",
+      "path": "backgrounds/back/card_back_runes.png",
+      "tags": [
+        "cardback",
+        "runes",
+        "stars",
+        "blue",
+        "gold"
+      ]
+    },
+    {
+      "id": "starter-ill-fire-01",
+      "fileName": "Fire Spell Explosion",
+      "category": "main-illustration",
+      "path": "illustrations/fire_spell_bg.png",
+      "tags": [
+        "spell",
+        "fire",
+        "magic",
+        "action",
+        "flame"
+      ]
+    },
+    {
+      "id": "starter-icon-potion-01",
+      "fileName": "Health Potion Icon",
+      "category": "icon",
+      "path": "icons/starter-icon-potion-01.png",
+      "tags": [
+        "potion",
+        "health",
+        "red",
+        "icon",
+        "item"
+      ]
+    }
+  ]
 }
