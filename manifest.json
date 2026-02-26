@@ -104,6 +104,72 @@
         "icon",
         "item"
       ]
+    },
+    {
+      "id": "fantasy-realistic-bg",
+      "fileName": "Fantasy Realistic Background",
+      "category": "front-background",
+      "path": "backgrounds/front/fantasy-realistic-bg.png",
+      "tags": [
+        "fantasy",
+        "realistic",
+        "background"
+      ]
+    },
+    {
+      "id": "scifi-comic-book-bg",
+      "fileName": "Sci-Fi Comic Book Background",
+      "category": "front-background",
+      "path": "backgrounds/front/scifi-comic-book-bg.png",
+      "tags": [
+        "scifi",
+        "comic-book",
+        "background"
+      ]
+    },
+    {
+      "id": "nature-watercolor-bg",
+      "fileName": "Nature Watercolor Background",
+      "category": "front-background",
+      "path": "backgrounds/front/nature-watercolor-bg.png",
+      "tags": [
+        "nature",
+        "watercolor",
+        "background"
+      ]
+    },
+    {
+      "id": "fantasy-pixel-art-ill",
+      "fileName": "Fantasy Pixel Art Illustration",
+      "category": "main-illustration",
+      "path": "illustrations/fantasy-pixel-art-ill.png",
+      "tags": [
+        "fantasy",
+        "pixel-art",
+        "illustration"
+      ]
+    },
+    {
+      "id": "scifi-oil-painting-ill",
+      "fileName": "Sci-Fi Oil Painting Illustration",
+      "category": "main-illustration",
+      "path": "illustrations/scifi-oil-painting-ill.png",
+      "tags": [
+        "scifi",
+        "oil-painting",
+        "illustration"
+      ]
+    },
+    {
+      "id": "icon-sword-watercolor",
+      "fileName": "Sword Watercolor Icon",
+      "category": "icon",
+      "path": "icons/icon-sword-watercolor.png",
+      "tags": [
+        "icon",
+        "watercolor",
+        "sword"
+      ]
     }
   ]
 }
